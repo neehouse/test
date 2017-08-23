@@ -1,0 +1,4 @@
+[submodule "three"]
+	path = three
+	url = https://neehouse@github.com/neehouse/test.git
+	branch = three
